@@ -110,3 +110,41 @@ By fulfilling these responsibilities and adopting a proactive and collaborative 
 
 
 ### 9. You add the next item...
+<br><br><br>
+
+
+# Common Mistakes in Developer-Project Coordinator Interaction
+Effective communication and collaboration between developers and Project Coordinators are crucial for project success. However, certain mistakes in their interaction can hinder productivity and impact project outcomes:
+
+### 1. Lack of Communication:
+Failing to communicate updates, challenges, or blockers to the Project Coordinator in a timely manner can lead to misunderstandings and delays in project delivery.
+
+### 2. Ignoring Priorities:
+Disregarding project priorities set by the Project Coordinator and pursuing tasks based on personal preferences or assumptions can disrupt project alignment and hinder progress.
+
+### 3. Overlooking Instructions:
+Not paying attention to instructions or guidelines provided by the Project Coordinator may result in incomplete or inaccurate work, leading to rework and wasted effort.
+
+### 4. Resisting Feedback:
+Being resistant to feedback or constructive criticism from the Project Coordinator can impede personal growth and hinder the team's ability to address areas for improvement.
+
+### 5. Lack of Accountability:
+Failing to take ownership of assigned tasks, meet deadlines, or deliver quality work reflects poorly on the developer's accountability and undermines project trust and credibility.
+
+### 6. Disregarding Project Guidelines:
+Ignoring project guidelines, coding standards, or best practices established by the Project Coordinator can lead to inconsistencies, inefficiencies, and maintainability issues in the project codebase.
+
+### 7. Underestimating Dependencies:
+Underestimating the impact of dependencies or interrelated tasks on project timelines and deliverables can lead to bottlenecks and cascading delays in project execution.
+
+### 8. Not Seeking Clarification:
+Not seeking clarification or guidance from the Project Coordinator when faced with ambiguity or uncertainty about project requirements or expectations can result in misaligned deliverables and wasted effort.
+
+### 9. Lack of Proactivity:
+Failing to proactively identify risks, propose solutions, or raise concerns to the Project Coordinator can prevent timely resolution of issues and hinder project progress.
+
+### 10. Disregarding Collaboration:
+Neglecting to collaborate effectively with the Project Coordinator and other team members can hinder teamwork, communication, and collective problem-solving efforts.
+
+## Mitigation Strategies:
+To mitigate these mistakes, developers should prioritize clear and proactive communication, adhere to project guidelines, seek feedback, and collaborate closely with the Project Coordinator to ensure project success.
